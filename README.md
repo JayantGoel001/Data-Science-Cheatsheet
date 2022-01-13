@@ -27,6 +27,7 @@ Future additions (ideas welcome):
 - ~~Statistics and Probability~~ Added!
 - Data Imputation
 - Generative Adversarial Networks
+- Graph Neural Networks
 
 ## Links
 * [Data Science Cheatsheet 2.0 PDF](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf)
@@ -56,3 +57,5 @@ Images are used for educational purposes, created by me, or borrowed from my col
 Feel free to suggest comments, updates, and potential improvements!
 
 Author - [Aaron Wang](https://www.linkedin.com/in/axw/)
+
+If you'd like to support this cheatsheet, you can buy me a coffee [here](https://www.paypal.me/aaxw)
